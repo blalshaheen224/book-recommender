@@ -12,7 +12,7 @@ It uses **TF-IDF vectorization** and **K-Nearest Neighbors (KNN)** with **cosine
 
 ## 📂 Dataset Information
 
-> **Source**: The data was collected from [Aseer Al-Kotob], a well-known Arabic book website.
+> **Source**: The data was collected from [Aseer Al-Kotob](https://aseeralkotb.com/), a well-known Arabic book website.
 
 ⚠️ Out of respect for copyright and fair use, **only a small sample** of the original dataset will be included in this repository.
 
